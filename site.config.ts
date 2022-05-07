@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'AusimJobz Team',
   domain: 'https://northern-grouse-f21.notion.site/797ab8ae97de4dd18455652513cffa2e?v=7a4048ecab90488795291c72088ef7d6',
-  author: '张海旭',
+  author: 'Zhang Haixu',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
