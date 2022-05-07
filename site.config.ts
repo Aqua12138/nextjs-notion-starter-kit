@@ -20,7 +20,6 @@ export default siteConfig({
   twitter: '',
   github: '',
   linkedin: '',
-  bilibili: 'AusimJobz',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
