@@ -2,15 +2,15 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '797ab8ae97de4dd18455652513cffa2e',
+  rootNotionPageId: '92c6c5698288497284e199ff87e827f1',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'AusimJobz Team',
-  domain: 'https://northern-grouse-f21.notion.site/797ab8ae97de4dd18455652513cffa2e?v=7a4048ecab90488795291c72088ef7d6',
+  name: 'AusimJobz Team Space',
+  domain: 'https://complete-stretch-5a3.notion.site/92c6c5698288497284e199ff87e827f1',
   author: 'Zhang Haixu',
 
   // open graph metadata (optional)
