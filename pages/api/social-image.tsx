@@ -158,21 +158,17 @@ const style = `
   font-weight: normal;
   src: url(data:font/woff2;charset=utf-8;base64,${interRegular}) format('woff2');
 }
-
 :root {
   --padding: 8vmin;
 }
-
 * {
   box-sizing: border-box;
 }
-
 body {
   font-family: 'Inter', sans-serif;
   padding: 0;
   margin: 0;
 }
-
 .container {
   width: 100vw;
   height: 100vh;
@@ -184,7 +180,6 @@ body {
   background: #1F2027;
   color: #fff;
 }
-
 .horiz {
   display: flex;
   flex-direction: row;
@@ -193,25 +188,21 @@ body {
   width: 100%;
   height: 100%;
 }
-
 .lhs {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
-
 .rhs {
   width: 35%;
   height: 100%;
   border-radius: 4px;
   object-fit: cover;
 }
-
 .title {
   font-size: 3.2em;
   line-height: 1.3;
 }
-
 .metadata {
   color: #A9ACC0;
   display: flex;
@@ -220,11 +211,9 @@ body {
   gap: calc(var(--padding) * 0.7);
   font-size: 1.5em;
 }
-
 .author {
   font-size: 1.75em;
 }
-
 .author-image {
   background-size: cover;
   width: 20vmin;
@@ -236,7 +225,6 @@ body {
   border-radius: 50%;
   border: 1.5vmin solid #fff;
 }
-
 .metadata-rhs {
   flex: 1;
   display: flex;
@@ -244,7 +232,6 @@ body {
   justify-content: center;
   gap: 0.5em;
 }
-
 .detail {
   overflow-wrap: break-word;
 }
